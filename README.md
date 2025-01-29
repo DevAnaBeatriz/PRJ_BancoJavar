@@ -14,7 +14,6 @@
 - **Swagger/OpenAPI** (Documentação)
 - **H2 Database** (Banco em memória para testes)
 - **JUnit & Mockito** (Testes unitários)
-- **Lombok** (Redução de boilerplate)
 
 ### **🌐 Frontend**
 - **React.js** (UI)
